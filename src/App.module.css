@@ -1,0 +1,11 @@
+.app {
+  width: 500px;
+  margin: 0 auto;
+}
+.app_header {
+  text-align: center;
+}
+.app_main {
+  width: 300px;
+  margin: 0 auto;
+}
